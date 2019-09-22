@@ -1,0 +1,5 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/ASP.NETCore_MVC/LanguageFeatures/.vs/LanguageFeatures/v16/Server/sqlite3/storage.ide-wal
