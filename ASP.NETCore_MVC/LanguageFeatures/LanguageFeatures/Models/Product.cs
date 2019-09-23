@@ -32,6 +32,7 @@ namespace LanguageFeatures.Models
         /// </summary>
         /// <returns>Массив товаров</returns>
         public bool InStock { get; } = true;
+        public bool NameBeginsWithS => Name?[0] == 'S';
         public static Product[] GetProducts()
         {
             Product kayak = new Product
