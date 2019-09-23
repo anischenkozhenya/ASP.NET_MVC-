@@ -71,7 +71,29 @@ namespace LanguageFeatures.Controllers
         //5
         //return View(Product.GetProducts().Select(p => p?.Name));
         //}
-        public ViewResult Index() => View(Product.GetProducts().Select(p=>p?.Name));
-        
+
+        //6
+        //public ViewResult Index() => View(Product.GetProducts().Select(p=>p?.Name));
+
+        //7
+        //public IActionResult Index()
+        //{
+        //    var names = new[] { "Kayak", "Lifejacket", "Soccer ball" };
+        //    return View(names);
+        //}
+
+
+        public IActionResult Index()
+        {
+            var products = new[] {
+                new { Name = "Kayak", Price = 275M },
+                new { Name = "Lifejacket", Price = 48.95M },
+                new { Name = "Soccer ball", Price = 19.50M },
+                new { Name = "Corner flag", Price = 34.95M }
+            };
+            //8
+            //return View(products.Select(p => p.Name));
+            return View(products.Select(p=>p.GetType().Name));
+        }
     }
 }
