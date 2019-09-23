@@ -82,18 +82,22 @@ namespace LanguageFeatures.Controllers
         //    return View(names);
         //}
 
-
-        public IActionResult Index()
+        //8
+        //public IActionResult Index()
+        //{
+        //    var products = new[] {
+        //        new { Name = "Kayak", Price = 275M },
+        //        new { Name = "Lifejacket", Price = 48.95M },
+        //        new { Name = "Soccer ball", Price = 19.50M },
+        //        new { Name = "Corner flag", Price = 34.95M }
+        //    };
+        //    //return View(products.Select(p => p.Name));
+        //    return View(products.Select(p=>p.GetType().Name));
+        //}
+        public async Task<IActionResult> Index()
         {
-            var products = new[] {
-                new { Name = "Kayak", Price = 275M },
-                new { Name = "Lifejacket", Price = 48.95M },
-                new { Name = "Soccer ball", Price = 19.50M },
-                new { Name = "Corner flag", Price = 34.95M }
-            };
-            //8
-            //return View(products.Select(p => p.Name));
-            return View(products.Select(p=>p.GetType().Name));
+            long? length = await MyAsyncMethods.GetPageLength();
+            return View(new string[] { $"Length: {length}" });
         }
     }
 }
