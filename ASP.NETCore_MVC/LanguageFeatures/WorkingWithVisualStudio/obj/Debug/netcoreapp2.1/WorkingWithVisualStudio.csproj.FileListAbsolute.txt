@@ -22,3 +22,5 @@ E:\ASP.NET_MVC-\ASP.NETCore_MVC\LanguageFeatures\WorkingWithVisualStudio\obj\Deb
 E:\ASP.NET_MVC-\ASP.NETCore_MVC\LanguageFeatures\WorkingWithVisualStudio\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
 E:\ASP.NET_MVC-\ASP.NETCore_MVC\LanguageFeatures\WorkingWithVisualStudio\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
 E:\ASP.NET_MVC-\ASP.NETCore_MVC\LanguageFeatures\WorkingWithVisualStudio\bin\Debug\netcoreapp2.1\libman.json
+E:\ASP.NET_MVC-\ASP.NETCore_MVC\LanguageFeatures\WorkingWithVisualStudio\obj\Debug\netcoreapp2.1\Razor\Views\Home\AddProduct.cshtml.g.cs
+E:\ASP.NET_MVC-\ASP.NETCore_MVC\LanguageFeatures\WorkingWithVisualStudio\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
