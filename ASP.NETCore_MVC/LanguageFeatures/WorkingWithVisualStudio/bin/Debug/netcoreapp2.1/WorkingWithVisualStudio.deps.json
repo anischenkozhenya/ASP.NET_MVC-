@@ -24,10 +24,11 @@
     ".NETCoreApp,Version=v2.1": {
       "WorkingWithVisualStudio/1.0.0": {
         "dependencies": {
+          "BuildBundlerMinifier": "3.0.415",
           "Microsoft.AspNetCore.App": "2.1.1",
           "Microsoft.AspNetCore.Razor.Design": "2.1.2",
           "Microsoft.NETCore.App": "2.1.0",
-          "Microsoft.VisualStudio.Web.BrowserLink.Loader": "14.1.0",
+          "Microsoft.VisualStudio.Web.BrowserLink": "2.1.1",
           "bootstrap": "4.3.1"
         },
         "runtime": {
@@ -43,67 +44,27 @@
           "popper.js": "1.14.0"
         }
       },
+      "BuildBundlerMinifier/3.0.415": {},
       "jQuery/3.0.0": {},
       "Microsoft.AspNetCore.Razor.Design/2.1.2": {},
-      "Microsoft.Extensions.PlatformAbstractions/1.0.0": {
+      "Microsoft.VisualStudio.Web.BrowserLink/2.1.1": {
         "dependencies": {
-          "System.AppContext": "4.3.0",
-          "System.Reflection": "4.3.0",
-          "System.Reflection.Extensions": "4.3.0",
-          "System.Reflection.TypeExtensions": "4.3.0",
-          "System.Resources.ResourceManager": "4.3.0",
-          "System.Runtime.Extensions": "4.3.0"
-        },
-        "runtime": {
-          "lib/netstandard1.3/Microsoft.Extensions.PlatformAbstractions.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.20622"
-          }
-        },
-        "compile": {
-          "lib/netstandard1.3/Microsoft.Extensions.PlatformAbstractions.dll": {}
-        }
-      },
-      "Microsoft.VisualStudio.Web.BrowserLink.Loader/14.1.0": {
-        "dependencies": {
+          "Microsoft.AspNetCore.Hosting.Abstractions": "2.1.1",
           "Microsoft.AspNetCore.Http.Abstractions": "2.1.1",
-          "Microsoft.Extensions.FileProviders.Physical": "2.1.1",
-          "Microsoft.Extensions.PlatformAbstractions": "1.0.0",
-          "Microsoft.Win32.Registry": "4.5.0",
-          "System.Collections": "4.3.0",
-          "System.Net.Sockets": "4.1.0",
-          "System.Runtime.Loader": "4.0.0",
-          "System.Text.Encoding": "4.3.0",
-          "System.Threading": "4.3.0"
+          "Microsoft.AspNetCore.Http.Extensions": "2.1.1",
+          "Microsoft.Extensions.FileProviders.Physical": "2.1.1"
         },
         "runtime": {
-          "lib/netstandard1.5/Microsoft.VisualStudio.Web.BrowserLink.Loader.dll": {
-            "assemblyVersion": "14.1.0.0",
-            "fileVersion": "14.1.0.21115"
+          "lib/netstandard2.0/Microsoft.VisualStudio.Web.BrowserLink.dll": {
+            "assemblyVersion": "2.1.1.0",
+            "fileVersion": "2.1.1.18157"
           }
         },
         "compile": {
-          "lib/netstandard1.5/Microsoft.VisualStudio.Web.BrowserLink.Loader.dll": {}
+          "lib/netstandard2.0/Microsoft.VisualStudio.Web.BrowserLink.dll": {}
         }
       },
       "popper.js/1.14.0": {},
-      "System.Net.Sockets/4.1.0": {
-        "dependencies": {
-          "Microsoft.NETCore.Platforms": "2.1.0",
-          "Microsoft.NETCore.Targets": "2.1.0",
-          "System.IO": "4.3.0",
-          "System.Net.Primitives": "4.3.0",
-          "System.Runtime": "4.3.0",
-          "System.Threading.Tasks": "4.3.0"
-        }
-      },
-      "System.Runtime.Loader/4.0.0": {
-        "dependencies": {
-          "System.IO": "4.3.0",
-          "System.Reflection": "4.3.0",
-          "System.Runtime": "4.3.0"
-        }
-      },
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
         "dependencies": {
           "Newtonsoft.Json": "11.0.2",
@@ -3240,6 +3201,13 @@
       "path": "bootstrap/4.3.1",
       "hashPath": "bootstrap.4.3.1.nupkg.sha512"
     },
+    "BuildBundlerMinifier/3.0.415": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vhI32AdG9tdGN4Avtf/7FoH8HV2HwUM03npMaaspaSAqHDuw7SHCM43wppeRFF/364ye1Bapj3xqpVVQen3jbg==",
+      "path": "buildbundlerminifier/3.0.415",
+      "hashPath": "buildbundlerminifier.3.0.415.nupkg.sha512"
+    },
     "jQuery/3.0.0": {
       "type": "package",
       "serviceable": true,
@@ -3254,19 +3222,12 @@
       "path": "microsoft.aspnetcore.razor.design/2.1.2",
       "hashPath": "microsoft.aspnetcore.razor.design.2.1.2.nupkg.sha512"
     },
-    "Microsoft.Extensions.PlatformAbstractions/1.0.0": {
+    "Microsoft.VisualStudio.Web.BrowserLink/2.1.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-zyjUzrOmuevOAJpIo3Mt5GmpALVYCVdLZ99keMbmCxxgQH7oxzU58kGHzE6hAgYEiWsdfMJLjVR7r+vSmaJmtg==",
-      "path": "microsoft.extensions.platformabstractions/1.0.0",
-      "hashPath": "microsoft.extensions.platformabstractions.1.0.0.nupkg.sha512"
-    },
-    "Microsoft.VisualStudio.Web.BrowserLink.Loader/14.1.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-iVJCfMpPqZE2QaEAGT5MoEYM65l59rDSNERnZQmJDOiE+itZZ6ZP5wh+Lh9Lv0Nt1SbgvXdN3z39MM435ITldA==",
-      "path": "microsoft.visualstudio.web.browserlink.loader/14.1.0",
-      "hashPath": "microsoft.visualstudio.web.browserlink.loader.14.1.0.nupkg.sha512"
+      "sha512": "sha512-Fq4cFAvVNU5TYdsur/3DRRTdiS5ApKShYaBlxQabR/nUWCymqGXL4Fi1jl1YWq82e4I0c6eAao4YGZiruevrCA==",
+      "path": "microsoft.visualstudio.web.browserlink/2.1.1",
+      "hashPath": "microsoft.visualstudio.web.browserlink.2.1.1.nupkg.sha512"
     },
     "popper.js/1.14.0": {
       "type": "package",
@@ -3274,20 +3235,6 @@
       "sha512": "sha512-SPxZdXknelgQ015wey7GMZvsVdt/SyEmHYORhEp5k/uF9MUk9DPtkn+6dR98fud2hVWJjZm9KKr474+r7WQt+A==",
       "path": "popper.js/1.14.0",
       "hashPath": "popper.js.1.14.0.nupkg.sha512"
-    },
-    "System.Net.Sockets/4.1.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-xAz0N3dAV/aR/9g8r0Y5oEqU1JRsz29F5EGb/WVHmX3jVSLqi2/92M5hTad2aNWovruXrJpJtgZ9fccPMG9uSw==",
-      "path": "system.net.sockets/4.1.0",
-      "hashPath": "system.net.sockets.4.1.0.nupkg.sha512"
-    },
-    "System.Runtime.Loader/4.0.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-4UN78GOVU/mbDFcXkEWtetJT/sJ0yic2gGk1HSlSpWI0TDf421xnrZTDZnwNBapk1GQeYN7U1lTj/aQB1by6ow==",
-      "path": "system.runtime.loader/4.0.0",
-      "hashPath": "system.runtime.loader.4.0.0.nupkg.sha512"
     },
     "Microsoft.AspNet.WebApi.Client/5.2.6": {
       "type": "package",

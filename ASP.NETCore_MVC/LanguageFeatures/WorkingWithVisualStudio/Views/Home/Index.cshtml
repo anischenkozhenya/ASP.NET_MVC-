@@ -4,12 +4,10 @@
 }
 <!DOCTYPE html>
 <head>
-    <meta name="viewport" content="width=device-width"/>
-    <link rel="stylesheet" href="~/css/first.css" />
-    <link rel="stylesheet" href="~/css/second.css" />
-    <script src="~/js/third.js"></script>
-    <script src="~/js/fourth.js"></script>
+    <meta name="viewport" content="width=device-width" />
     <title>Working with Visual Studio</title>
+    <link rel="stylesheet" href="~/css/bundle.min.css" />    
+    <script src="~/js/bundle.min.js"></script>
 </head>
 <body>
     <h3>Products</h3>
@@ -24,17 +22,14 @@
         <tbody>
             @foreach (var p in Model)
             {
-                <tr><td>@p.Name</td><td>@($"{p.Price:C2}")</td></tr>
+            <tr><td>@p.Name</td><td>@($"{p.Price:C2}")</td></tr>
             }
         </tbody>
-    </table>
-    <!--Visual Studio Browser Link-->
-    <script type="application/json" id="__browserLink_initialisationData">
-        {"requestId":"9e00c6f8058f4369818e7ba315c9bdde","requestMappingFromServer":false}
+    </table>    
+    <!-- Visual Studio Browser Link -->
+    <script type="application/json" id="__browserLink_initializationData">
+        {"requestId":"a717d5a07c1741949a7cefd6fa2bad08","requestMappingFromServer":false}
     </script>
-    <script type="text/javascript">
-        src = "http://localhost:56147/e7b85fe070c54198a041d57c363cee40/brouserLink"
-        async = "async"
-    </script>
-    <!--End Browser Link-->
+    <script type="text/javascript" src="http://localhost:54139/b6e36e429d034f578ebccd6a79bf19bf/browserLink" async="async"></script>
+    <!-- End Browser Link -->    
 </body>

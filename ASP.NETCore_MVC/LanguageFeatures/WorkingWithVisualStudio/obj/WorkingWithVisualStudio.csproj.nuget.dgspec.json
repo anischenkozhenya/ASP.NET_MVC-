@@ -41,6 +41,10 @@
       "frameworks": {
         "netcoreapp2.1": {
           "dependencies": {
+            "BuildBundlerMinifier": {
+              "target": "Package",
+              "version": "[3.0.415, )"
+            },
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
               "target": "Package",
@@ -52,19 +56,15 @@
               "target": "Package",
               "version": "[2.1.2, )"
             },
-            "Microsoft.AspNetCore.StaticFiles": {
-              "target": "Package",
-              "version": "[1.0.0, )"
-            },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
             },
-            "Microsoft.VisualStudio.Web.BrowserLink.Loader": {
+            "Microsoft.VisualStudio.Web.BrowserLink": {
               "target": "Package",
-              "version": "[14.1.0, )"
+              "version": "[2.1.1, )"
             },
             "bootstrap": {
               "target": "Package",
