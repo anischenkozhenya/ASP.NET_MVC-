@@ -29,7 +29,6 @@ E:\ASP.NET_MVC-\ASP.NETCore_MVC\LanguageFeatures\LanguageFeatures\bin\Debug\netc
 E:\ASP.NET_MVC-\ASP.NETCore_MVC\LanguageFeatures\LanguageFeatures\bin\Debug\netcoreapp2.1\LanguageFeatures.Views.dll
 E:\ASP.NET_MVC-\ASP.NETCore_MVC\LanguageFeatures\LanguageFeatures\bin\Debug\netcoreapp2.1\LanguageFeatures.Views.pdb
 E:\ASP.NET_MVC-\ASP.NETCore_MVC\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp2.1\LanguageFeatures.csprojAssemblyReference.cache
-E:\ASP.NET_MVC-\ASP.NETCore_MVC\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp2.1\LanguageFeatures.csproj.CoreCompileInputs.cache
 E:\ASP.NET_MVC-\ASP.NETCore_MVC\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp2.1\LanguageFeatures.RazorAssemblyInfo.cache
 E:\ASP.NET_MVC-\ASP.NETCore_MVC\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp2.1\LanguageFeatures.RazorAssemblyInfo.cs
 E:\ASP.NET_MVC-\ASP.NETCore_MVC\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp2.1\LanguageFeatures.AssemblyInfoInputs.cache
@@ -37,10 +36,11 @@ E:\ASP.NET_MVC-\ASP.NETCore_MVC\LanguageFeatures\LanguageFeatures\obj\Debug\netc
 E:\ASP.NET_MVC-\ASP.NETCore_MVC\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp2.1\LanguageFeatures.TagHelpers.input.cache
 E:\ASP.NET_MVC-\ASP.NETCore_MVC\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp2.1\LanguageFeatures.TagHelpers.output.cache
 E:\ASP.NET_MVC-\ASP.NETCore_MVC\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp2.1\LanguageFeatures.RazorCoreGenerate.cache
-E:\ASP.NET_MVC-\ASP.NETCore_MVC\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
 E:\ASP.NET_MVC-\ASP.NETCore_MVC\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp2.1\LanguageFeatures.RazorTargetAssemblyInfo.cache
 E:\ASP.NET_MVC-\ASP.NETCore_MVC\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp2.1\LanguageFeatures.RazorTargetAssemblyInfo.cs
 E:\ASP.NET_MVC-\ASP.NETCore_MVC\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp2.1\LanguageFeatures.Views.pdb
 E:\ASP.NET_MVC-\ASP.NETCore_MVC\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp2.1\LanguageFeatures.dll
 E:\ASP.NET_MVC-\ASP.NETCore_MVC\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp2.1\LanguageFeatures.pdb
 E:\ASP.NET_MVC-\ASP.NETCore_MVC\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp2.1\LanguageFeatures.csproj.CopyComplete
+E:\ASP.NET_MVC-\ASP.NETCore_MVC\LanguageFeatures\LanguageFeatures\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\ASP.NET_MVC-\ASP.NETCore_MVC\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs

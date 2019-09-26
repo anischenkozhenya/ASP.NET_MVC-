@@ -3,7 +3,6 @@ E:\ASP.NET_MVC-\ASP.NETCore_MVC\Razor\Razor\bin\Debug\netcoreapp2.1\Razor.runtim
 E:\ASP.NET_MVC-\ASP.NETCore_MVC\Razor\Razor\bin\Debug\netcoreapp2.1\Razor.runtimeconfig.dev.json
 E:\ASP.NET_MVC-\ASP.NETCore_MVC\Razor\Razor\bin\Debug\netcoreapp2.1\Razor.dll
 E:\ASP.NET_MVC-\ASP.NETCore_MVC\Razor\Razor\obj\Debug\netcoreapp2.1\Razor.csprojAssemblyReference.cache
-E:\ASP.NET_MVC-\ASP.NETCore_MVC\Razor\Razor\obj\Debug\netcoreapp2.1\Razor.csproj.CoreCompileInputs.cache
 E:\ASP.NET_MVC-\ASP.NETCore_MVC\Razor\Razor\obj\Debug\netcoreapp2.1\Razor.RazorAssemblyInfo.cache
 E:\ASP.NET_MVC-\ASP.NETCore_MVC\Razor\Razor\obj\Debug\netcoreapp2.1\Razor.RazorAssemblyInfo.cs
 E:\ASP.NET_MVC-\ASP.NETCore_MVC\Razor\Razor\obj\Debug\netcoreapp2.1\Razor.AssemblyInfoInputs.cache
@@ -17,10 +16,11 @@ E:\ASP.NET_MVC-\ASP.NETCore_MVC\Razor\Razor\bin\Debug\netcoreapp2.1\Razor.Views.
 E:\ASP.NET_MVC-\ASP.NETCore_MVC\Razor\Razor\obj\Debug\netcoreapp2.1\Razor.TagHelpers.input.cache
 E:\ASP.NET_MVC-\ASP.NETCore_MVC\Razor\Razor\obj\Debug\netcoreapp2.1\Razor.TagHelpers.output.cache
 E:\ASP.NET_MVC-\ASP.NETCore_MVC\Razor\Razor\obj\Debug\netcoreapp2.1\Razor.RazorCoreGenerate.cache
-E:\ASP.NET_MVC-\ASP.NETCore_MVC\Razor\Razor\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
 E:\ASP.NET_MVC-\ASP.NETCore_MVC\Razor\Razor\obj\Debug\netcoreapp2.1\Razor.RazorTargetAssemblyInfo.cs
 E:\ASP.NET_MVC-\ASP.NETCore_MVC\Razor\Razor\obj\Debug\netcoreapp2.1\Razor.Views.pdb
 E:\ASP.NET_MVC-\ASP.NETCore_MVC\Razor\Razor\obj\Debug\netcoreapp2.1\Razor.csproj.CopyComplete
-E:\ASP.NET_MVC-\ASP.NETCore_MVC\Razor\Razor\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
-E:\ASP.NET_MVC-\ASP.NETCore_MVC\Razor\Razor\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_BasicLayout.g.cshtml.cs
-E:\ASP.NET_MVC-\ASP.NETCore_MVC\Razor\Razor\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+E:\ASP.NET_MVC-\ASP.NETCore_MVC\Razor\Razor\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\ASP.NET_MVC-\ASP.NETCore_MVC\Razor\Razor\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_BasicLayout.cshtml.g.cs
+E:\ASP.NET_MVC-\ASP.NETCore_MVC\Razor\Razor\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\ASP.NET_MVC-\ASP.NETCore_MVC\Razor\Razor\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\ASP.NET_MVC-\ASP.NETCore_MVC\Razor\Razor\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
