@@ -61,6 +61,14 @@
               "target": "Package",
               "version": "[2.2.7, )"
             },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.13.0, )"
+            },
+            "System.Diagnostics.TraceSource": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
             "xunit": {
               "target": "Package",
               "version": "[2.4.1, )"
@@ -91,14 +99,14 @@
         }
       }
     },
-    "e:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj": {
+    "E:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj",
+        "projectUniqueName": "E:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj",
         "projectName": "WorkingWithVisualStudio",
-        "projectPath": "e:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj",
+        "projectPath": "E:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj",
         "packagesPath": "C:\\Users\\Madara\\.nuget\\packages\\",
-        "outputPath": "e:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\WorkingWithVisualStudio\\obj\\",
+        "outputPath": "E:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\WorkingWithVisualStudio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

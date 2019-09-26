@@ -1,7 +1,6 @@
 E:\ASP.NET_MVC-\ASP.NETCore_MVC\Razor\Razor\bin\Debug\netcoreapp2.1\Razor.deps.json
 E:\ASP.NET_MVC-\ASP.NETCore_MVC\Razor\Razor\bin\Debug\netcoreapp2.1\Razor.runtimeconfig.json
 E:\ASP.NET_MVC-\ASP.NETCore_MVC\Razor\Razor\bin\Debug\netcoreapp2.1\Razor.runtimeconfig.dev.json
-E:\ASP.NET_MVC-\ASP.NETCore_MVC\Razor\Razor\bin\Debug\netcoreapp2.1\Razor.dll
 E:\ASP.NET_MVC-\ASP.NETCore_MVC\Razor\Razor\obj\Debug\netcoreapp2.1\Razor.csprojAssemblyReference.cache
 E:\ASP.NET_MVC-\ASP.NETCore_MVC\Razor\Razor\obj\Debug\netcoreapp2.1\Razor.RazorAssemblyInfo.cache
 E:\ASP.NET_MVC-\ASP.NETCore_MVC\Razor\Razor\obj\Debug\netcoreapp2.1\Razor.RazorAssemblyInfo.cs

@@ -167,3 +167,5 @@ E:\ASP.NET_MVC-\ASP.NETCore_MVC\test\WorkingWithVisualStudio.Tests\bin\Debug\net
 E:\ASP.NET_MVC-\ASP.NETCore_MVC\test\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
 E:\ASP.NET_MVC-\ASP.NETCore_MVC\test\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
 E:\ASP.NET_MVC-\ASP.NETCore_MVC\test\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp3.0\Microsoft.Extensions.FileProviders.Composite.dll
+E:\ASP.NET_MVC-\ASP.NETCore_MVC\test\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp3.0\Castle.Core.dll
+E:\ASP.NET_MVC-\ASP.NETCore_MVC\test\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp3.0\Moq.dll
