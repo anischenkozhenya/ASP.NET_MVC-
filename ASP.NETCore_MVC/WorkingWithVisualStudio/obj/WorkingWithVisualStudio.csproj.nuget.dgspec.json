@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj": {}
+    "e:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj": {}
   },
   "projects": {
-    "E:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj": {
+    "e:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj",
+        "projectUniqueName": "e:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj",
         "projectName": "WorkingWithVisualStudio",
-        "projectPath": "E:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj",
+        "projectPath": "e:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj",
         "packagesPath": "C:\\Users\\Madara\\.nuget\\packages\\",
-        "outputPath": "E:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\WorkingWithVisualStudio\\obj\\",
+        "outputPath": "e:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\WorkingWithVisualStudio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

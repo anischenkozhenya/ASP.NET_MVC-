@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\Razor\\Razor\\Razor.csproj": {}
+    "e:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\Razor\\Razor\\Razor.csproj": {}
   },
   "projects": {
-    "E:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\Razor\\Razor\\Razor.csproj": {
+    "e:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\Razor\\Razor\\Razor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\Razor\\Razor\\Razor.csproj",
+        "projectUniqueName": "e:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\Razor\\Razor\\Razor.csproj",
         "projectName": "Razor",
-        "projectPath": "E:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\Razor\\Razor\\Razor.csproj",
+        "projectPath": "e:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\Razor\\Razor\\Razor.csproj",
         "packagesPath": "C:\\Users\\Madara\\.nuget\\packages\\",
-        "outputPath": "E:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\Razor\\Razor\\obj\\",
+        "outputPath": "e:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\Razor\\Razor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -9212,11 +9212,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\test\\WorkingWithVisualStudio.Tests\\WorkingWithVisualStudio.Tests.csproj",
+      "projectUniqueName": "e:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\test\\WorkingWithVisualStudio.Tests\\WorkingWithVisualStudio.Tests.csproj",
       "projectName": "WorkingWithVisualStudio.Tests",
-      "projectPath": "E:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\test\\WorkingWithVisualStudio.Tests\\WorkingWithVisualStudio.Tests.csproj",
+      "projectPath": "e:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\test\\WorkingWithVisualStudio.Tests\\WorkingWithVisualStudio.Tests.csproj",
       "packagesPath": "C:\\Users\\Madara\\.nuget\\packages\\",
-      "outputPath": "E:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\test\\WorkingWithVisualStudio.Tests\\obj\\",
+      "outputPath": "e:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\test\\WorkingWithVisualStudio.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9235,8 +9235,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "E:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj": {
-              "projectPath": "E:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj"
+            "e:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj": {
+              "projectPath": "e:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj"
             }
           }
         }

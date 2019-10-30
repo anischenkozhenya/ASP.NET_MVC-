@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\LanguageFeatures\\LanguageFeatures\\LanguageFeatures.csproj": {}
+    "e:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\LanguageFeatures\\LanguageFeatures\\LanguageFeatures.csproj": {}
   },
   "projects": {
-    "E:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\LanguageFeatures\\LanguageFeatures\\LanguageFeatures.csproj": {
+    "e:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\LanguageFeatures\\LanguageFeatures\\LanguageFeatures.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\LanguageFeatures\\LanguageFeatures\\LanguageFeatures.csproj",
+        "projectUniqueName": "e:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\LanguageFeatures\\LanguageFeatures\\LanguageFeatures.csproj",
         "projectName": "LanguageFeatures",
-        "projectPath": "E:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\LanguageFeatures\\LanguageFeatures\\LanguageFeatures.csproj",
+        "projectPath": "e:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\LanguageFeatures\\LanguageFeatures\\LanguageFeatures.csproj",
         "packagesPath": "C:\\Users\\Madara\\.nuget\\packages\\",
-        "outputPath": "E:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\LanguageFeatures\\LanguageFeatures\\obj\\",
+        "outputPath": "e:\\ASP.NET_MVC-\\ASP.NETCore_MVC\\LanguageFeatures\\LanguageFeatures\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
